@@ -1,0 +1,7 @@
+@import "reset.css";
+/*Components*/
+/*Screens*/
+@import "screens/intro.css";
+body {
+  height: 1000vh;
+}
