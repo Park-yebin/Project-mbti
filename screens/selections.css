@@ -1,8 +1,8 @@
 .selection {
   display: flex;
   flex-direction: column;
-  margin: 0px 10px;
-  font-size: 18px;
+  margin: 0px 5px;
+  font-size: 15px;
 }
 .selection input {
   background-color: white;

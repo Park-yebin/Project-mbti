@@ -1,10 +1,12 @@
 @import "reset.css";
 /*Components*/
 @import "components/screen-header.css";
+@import "components/control-page.css";
 /*Screens*/
 @import "screens/intro.css";
 @import "screens/selections.css";
+@import "screens/discriptions.css";
 body {
   font-family: Arial, Helvetica, sans-serif;
-  height: 1000vh;
+  height: 100vh;
 }
